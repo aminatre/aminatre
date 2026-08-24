@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Amina 👋
 
-<!--
-**aminatre/aminatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Media Engineering student exploring the intersection of **software, design, and user experience**.
+I enjoy learning by building projects, experimenting with new technologies, and turning ideas into **thoughtful digital experiences**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🍯 Golden Dates
+A responsive landing page for a fictional premium date brand,
+designed and developed from scratch.
+
+**Tech:** HTML, CSS
+
+### 📝 Text Utility Tool
+A Python-based text processing tool developed as a personal project.
+
+**Tech:** Python
+
+## 🌱 Currently Learning
+
+- Frontend Development
+- Full-Stack Development
+- Software Engineering
+- UI/UX Design
+
+## ✨ Building & Learning
+
+I'm interested in creating digital products where **technology, design, and user experience** come together.
+
+I enjoy learning new technologies, turning ideas into projects, and continuously improving how I build and design.
