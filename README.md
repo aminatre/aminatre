@@ -3,6 +3,8 @@
 I'm a Media Engineering student exploring the intersection of **software, design, and user experience**.
 I enjoy learning by building projects, experimenting with new technologies, and turning ideas into **thoughtful digital experiences**.
 
+🏆 1st place at the Siemens AI & Robotics Hackathon 2026 (LEAM challenge)
+
 ## 🛠️ Tech & Tools
 
 ### Programming
@@ -31,13 +33,19 @@ I enjoy learning by building projects, experimenting with new technologies, and 
 
 ## 🚀 Featured Projects
 
-### 🍯 Golden Dates
-A responsive landing page for a fictional premium date brand,
-designed and developed from scratch.
+### 🌴 Golden Dates
+Landing page for a fictional premium dates brand – designed in Figma (moodboard → style guide → components) and built with HTML & CSS.
 
-- **Golden Dates** – responsive landing page, designed in Figma & built with HTML/CSS · [Live Demo](https://aminatre.github.io/golden-dates/) · 🚧 in progress
+🔗 [Live Demo](https://aminatre.github.io/golden-dates/) · [Repository](https://github.com/aminatre/golden-dates) · 🚧 in progress
 
-**Tech:** HTML, CSS
+**Tech:** HTML, CSS, Figma
+
+### 📝 Text Utility Tool
+A Python tool for common text-processing operations, built with reusable functions.
+
+🔗 [Repository](https://github.com/aminatre/text-utility-tool)
+
+**Tech:** Python
 
 ### 📝 Text Utility Tool
 A Python-based text processing tool developed as a personal project.
