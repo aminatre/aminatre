@@ -47,11 +47,6 @@ A Python tool for common text-processing operations, built with reusable functio
 
 **Tech:** Python
 
-### 📝 Text Utility Tool
-A Python-based text processing tool developed as a personal project.
-
-**Tech:** Python
-
 ## 🌱 Currently Learning
 
 - Frontend Development
