@@ -35,6 +35,8 @@ I enjoy learning by building projects, experimenting with new technologies, and 
 A responsive landing page for a fictional premium date brand,
 designed and developed from scratch.
 
+- **Golden Dates** – responsive landing page, designed in Figma & built with HTML/CSS · [Live Demo](https://aminatre.github.io/golden-dates/) · 🚧 in progress
+
 **Tech:** HTML, CSS
 
 ### 📝 Text Utility Tool
@@ -48,6 +50,8 @@ A Python-based text processing tool developed as a personal project.
 - Full-Stack Development
 - Software Engineering
 - UI/UX Design
+- React
+- Next.js
 
 ## ✨ Building & Learning
 
